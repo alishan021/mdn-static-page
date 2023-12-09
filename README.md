@@ -1,0 +1,1 @@
+# mdn-static-page
